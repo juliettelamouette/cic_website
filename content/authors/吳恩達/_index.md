@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 吳恩達
+title: AA
 
 # Username (this should match the folder name)
 authors:
